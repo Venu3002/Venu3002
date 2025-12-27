@@ -1,18 +1,62 @@
-# 💫 About Me:
-Exploring Agentic AI, backend development, and intelligent automation.<br>I enjoy building practical projects, writing clean code, and learning by experimenting with real-world problems.
+<h1 align="center">Hi 👋, I'm Venu G</h1>
+<h3 align="center">Building • Learning • Experimenting</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Venug2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venug2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gurur1087@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Venu3002&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Venu3002&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Venu3002&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Venu3002&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Venu3002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ About Me
+- Exploring **Agentic AI**, intelligent automation, and software systems  
+- Interested in turning ideas into **practical, working solutions**  
+- Focused on clean logic, clarity, and continuous learning  
+
+---
+
+## 🛠️ Technologies I Work With
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,vscode,mysql,tensorflow,pytorch" />
+</p>
+
+---
+
+## 🧠 What I Like Building
+- 🤖 Intelligent & agent-based automation  
+- ⚙️ Workflow and task automation  
+- 📊 Data analysis & ML-driven insights  
+- 🌐 Simple, effective web-based tools  
+
+---
+
+## 📌 Highlighted Projects
+### 🔹 Financial Inclusion Analysis
+A data-driven project using **EDA, statistical testing, and machine learning** to study global financial access patterns and identify key inclusion drivers.
+
+### 🔹 Micky – AI Based Virtual Assistant
+A **browser-based voice assistant** built using the Web Speech API to enable hands-free interaction and real-time automation.
+
+---
+
+## 🚀 Current Focus
+- Improving problem-solving skills through projects  
+- Exploring automation-first design thinking  
+- Learning how intelligent systems make decisions  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/Venu3002">
+    <img src="https://img.shields.io/badge/GitHub-Venu3002-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/venug2003">
+    <img src="https://img.shields.io/badge/LinkedIn-Venu%20G-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 <i>Learning never stops - just the direction changes.</i>
+</p>
