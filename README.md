@@ -1,5 +1,5 @@
 # 💫 About Me:
-Exploring agentic AI, backend development, and intelligent automation.<br>I enjoy building practical projects, writing clean code, and learning by experimenting with real-world problems.
+Exploring Agentic AI, backend development, and intelligent automation.<br>I enjoy building practical projects, writing clean code, and learning by experimenting with real-world problems.
 
 
 ## 🌐 Socials:
